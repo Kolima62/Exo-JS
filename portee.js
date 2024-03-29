@@ -1,6 +1,7 @@
 // variable globale
 let a = 5;
 
+// encapsulation
 if (true) {
     // variable locale 
     let b = 6;
